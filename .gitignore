@@ -5,3 +5,4 @@ __pycache__/
 data/raw/*.csv
 .DS_Store
 reports/figures/
+notebook/*.py
