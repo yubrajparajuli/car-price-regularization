@@ -7,3 +7,4 @@ data/raw/*.csv
 reports/figures/
 notebook/*.py
 data/processed/
+src_models/*.joblib
